@@ -47,6 +47,7 @@ dependencies:
   avatar_glow: ^2.0.2
   connectivity_plus: ^3.0.3
   lottie: ^2.3.1
+  flutter_riverpod: ^1.0.3
 
 dev_dependencies:
   flutter_launcher_icons: ^0.12.0
